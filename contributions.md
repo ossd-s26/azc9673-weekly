@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Feb 17   | https://github.com/ossd-s26/more-tab-colors/pull/8    | Browser Extension    | added major recent-color feature and extension icon to browser extension     |
+| Feb 22   | https://github.com/ossd-s26/more-tab-colors/pull/9    | Browser Extension Add-On    | added additional favicon feature to track colors of each tab with extension     |
+| May 30   | https://en.wikipedia.org/wiki/Special:Contributions/CopypasteYoasobi    | Wikipedia Edits    | Some Wikipedia Link-Additions and Copy-Edits to pages with personally interesting topics    | 
